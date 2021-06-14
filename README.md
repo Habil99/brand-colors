@@ -1,4 +1,5 @@
-# beepex
+# Brand Colors Clone. LOADING...
+
 
 ## Project setup
 ```
